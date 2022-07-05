@@ -5,6 +5,6 @@
 # print("First Line ")
 # print("First Line ")
 print("this is beautiful /\\/\\/\\/\\mountain")
-print("")
-
+print("this is double \\\\ backslash")
+print("he is \t happy")
 
