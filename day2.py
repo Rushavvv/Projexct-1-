@@ -7,4 +7,6 @@
 print("this is beautiful /\\/\\/\\/\\mountain")
 print("this is double \\\\ backslash")
 print("he is \t happy")
-
+print(" \\ ' - ' (b)")
+print("\\\\ '- \\ (b) ")
+print("\\\\\\ ' - \\' ")
